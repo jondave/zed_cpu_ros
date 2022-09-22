@@ -25,7 +25,7 @@ A simple zed camera driver which only use CPU and only publish left and right ra
     or download from:
     http://calib.stereolabs.com/?SN=XXXX
 
-    Note: XXXX is your last four digit S/N of your camera, make sure to change it!!
+    Note: XXXX is your ~~last four digit~~ S/N of your camera, make sure to change it!!
 
     put the .conf file into zed_cpu_ros/config folder
 
